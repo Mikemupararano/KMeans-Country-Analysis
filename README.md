@@ -2,14 +2,16 @@
 This project applies KMeans clustering to country data to classify countries into different groups based on various socio-economic indicators. The analysis helps to visualize and understand the economic development levels of different countries.
 
 ## Table of Contents
-Introduction
-Dataset
-Project Steps
-Results
-Requirements
-Usage
-Contributing
-License
+- [KMeans-Country-Analysis](#kmeans-country-analysis)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Dataset](#dataset)
+  - [Project Steps](#project-steps)
+  - [Results](#results)
+  - [Requirements](#requirements)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Introduction
 This project uses the KMeans clustering algorithm to analyze and group countries based on their socio-economic indicators such as GDP per capita, child mortality, inflation, and others. The primary objective is to identify clusters that can provide insights into the economic development stages of different countries.
